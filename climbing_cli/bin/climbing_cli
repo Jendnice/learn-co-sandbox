@@ -1,5 +1,0 @@
-#!/usr/bin/env ruby 
-
-require './lib/climbing_cli'
-
-ClimbingCli::CLI.new.call 
